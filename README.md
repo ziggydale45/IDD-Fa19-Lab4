@@ -9,6 +9,7 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 ## Part A. Actuating DC motors
 
 **Link to a video of your virbation motor**
+[vibration motor](https://www.youtube.com/watch?v=sDMqCUgr2Vo&feature=youtu.be)
 
 ## Part B. Actuating Servo motors
 
@@ -32,11 +33,17 @@ angle = `(pos = 0; pos <= 90; pos += 1)`
 
 **Include a photo/movie of your raw circuit in action.**
 
+[potentiometer vid](https://www.youtube.com/watch?v=SrcTVGGWtFI)
+
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
 
+[proto puppet](https://www.youtube.com/watch?v=1lt7yiOZavw)
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+
+[dancing johnway](https://www.youtube.com/watch?v=oMHtbg5GcCc)
  
